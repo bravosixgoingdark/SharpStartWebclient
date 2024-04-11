@@ -49,7 +49,7 @@ jobs:
       uses: actions/upload-artifact@v1.0.0
       with:
        name: DavRelayUp 
-       path: "./DavRelayUp/bin/Release/SharpStartWebclient.exe"
+       path: "SharpStartWebclient\bin\Release\net4.0\SharpStartWebclient.exe"
 
       
         
